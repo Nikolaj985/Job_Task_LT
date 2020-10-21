@@ -3,7 +3,8 @@ Aprašymas Klientas paėmė iš banko paskolą: 10000 EUR su 7% metinėmis palū
 
 Užduotis (50% bendro balo): Klientas 2017-04-15 paėmė paskolą 5000 EUR su 12% metinių palūkanų, kuri turi būti grąžinta per 24 įmokas. 
 1. Išsiaiškinti kaip generuojamas anuitetinis paskolos grąžinimo grafikas. Algoritmas/formulė nėra sudėtinga, ją nesunkiai rasite internete. 
-2. Sugeneruoti grafiką su duotais parametrais. 3. Pavaizduoti grafiką panašiu formatu kaip pavyzdiniame faile (turi būti visi tie patys stulpeliai). Failas turi būti paruoštas .csv formatu.  
+2. Sugeneruoti grafiką su duotais parametrais. 
+3. Pavaizduoti grafiką panašiu formatu kaip pavyzdiniame faile (turi būti visi tie patys stulpeliai). Failas turi būti paruoštas .csv formatu.  
 
 Papildomos užduotys: 
 1. (30% bendro balo) 2017-09-02 bankas sumažino palūkanų normą nuo 12% iki 9%. 
