@@ -1,5 +1,6 @@
 # Job_Task_LT
-Aprašymas Klientas paėmė iš banko paskolą: 10000 EUR su 7% metinėmis palūkanomis. Paskola turi būti grąžinta per 26 įmokas: nuo 2016-11-15 iki 2018-12-15. Paskolos grąžinimo grafikas (ammortization schedule) yra sudaromas anuitetiniu (annuity) metodu. Tai reiškia, kad kas mėnesį kliento mokama suma (pagrindinė suma + palūkanos) nesikeičia. Tokio grafiko pavyzdį galite matyti Task_example.xlsx faile. Pirmajame stulpelyje matomas įmokos numeris, antrajame - kada klientas turi sumokėti įmoką. Likusiuose - tos dienos įmokos detalizacija.  
+Aprašymas 
+Klientas paėmė iš banko paskolą: 10000 EUR su 7% metinėmis palūkanomis. Paskola turi būti grąžinta per 26 įmokas: nuo 2016-11-15 iki 2018-12-15. Paskolos grąžinimo grafikas (ammortization schedule) yra sudaromas anuitetiniu (annuity) metodu. Tai reiškia, kad kas mėnesį kliento mokama suma (pagrindinė suma + palūkanos) nesikeičia. Tokio grafiko pavyzdį galite matyti Task_example.xlsx faile. Pirmajame stulpelyje matomas įmokos numeris, antrajame - kada klientas turi sumokėti įmoką. Likusiuose - tos dienos įmokos detalizacija.  
 
 Užduotis (50% bendro balo): Klientas 2017-04-15 paėmė paskolą 5000 EUR su 12% metinių palūkanų, kuri turi būti grąžinta per 24 įmokas. 
 1. Išsiaiškinti kaip generuojamas anuitetinis paskolos grąžinimo grafikas. Algoritmas/formulė nėra sudėtinga, ją nesunkiai rasite internete. 
